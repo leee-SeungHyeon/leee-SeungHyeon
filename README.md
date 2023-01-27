@@ -1,12 +1,13 @@
 ### Hi there 👋 , My name is 승현!
 
-<div align=center> <a href="mailto:hyunwow1263@naver.com"><img src="https://img.shields.io/badge/audwls9515@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<div align=center> <a href="mailto:hyunwow1263@naver.com"><img src="https://img.shields.io/badge/hyunwow1263@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=250&section=header&text=Myeongjin%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=2932E1&height=250&section=header&text=SeungHyeon%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62) </div>
   
 <div align=center><h1> 🎓 Education </h1></div>
 
-<div align=center> <h2>[ 2021.09 ~ 2021.12 - 전사적자원관리 교육 ]</h2></div>
+<div align=center> <h2>[ 2017.03 ~ 2021.02 - 동아대학교 경영정보학과 학사 졸업 ]</h2></div>
+<div align=center> <h2>[ 2021.03 ~ 2023.02 - 동아대학교 경영정보학과 석사 졸업 ]</h2></div>
 
 ### - Learning of ERP(Enterprise Resource Planning)
 
