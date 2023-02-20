@@ -9,14 +9,6 @@
 <div align=center> <h2>[ 2017.03 ~ 2021.02 - 동아대학교 경영정보학과 학사 졸업 ]</h2></div>
 <div align=center> <h2>[ 2021.03 ~ 2023.02 - 동아대학교 경영정보학과 석사 졸업 ]</h2></div>
 
-### - Learning of ERP(Enterprise Resource Planning)
-
-</br></br>
-
-<div align=center> <h2>[ BespinGlobal Techcenter Cloud engineer training course - 2022.05 ~ 2022.12 ]</h2></div>
-
-### - Basic learning of Network, Linux, Aws, Azure, GCP, Docker, k8s, Terraform, etc..
-
 </br></br></br></br>
 
 <div align=center><h1> 👨🏻‍💻 Project </h1></div>
@@ -26,16 +18,6 @@
 ## 2. AWS를 활용한 3티어 웹 서비스
 
 ## 3. NCP를 활용한 3-Tier 인프라
-
-## 4. GCP를 활용한 3-Tier 인프라
-
-## 5. GCP를 활용한 Kubernetes 인프라
-
-## 6. IaC를 활용한 AWS 인프라
-
-## 7. IaC를 활용한 GCP 2-Tier 인프라
-
-## 8. Cloud Native 기반 MSA 웹 서비스
 
 </br></br></br></br>
 
