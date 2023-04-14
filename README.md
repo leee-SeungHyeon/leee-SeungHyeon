@@ -6,7 +6,6 @@
   ## Introduction :raised_hands:
   #### 안녕하세요! 
   #### AI Data Scientist를 준비하고 있는 이승현이라고합니다😎
-  #### 부족하지만 항상 공부하고 열심히 연습하고 있습니다!
   
   <br>
 
