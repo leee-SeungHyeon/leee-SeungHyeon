@@ -13,24 +13,24 @@
   
   ## Skill :four_leaf_clover:
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <!--Python-->
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <!--pandas-->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <!--pandas-->
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"> <!--NumPy-->
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <!--scikit-learn-->
-  <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <!--selenium-->
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <!--scikit-learn-->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <!--selenium-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <!--PyTorch-->
-  <img src="https://img.shields.io/badge/tensorflow-3178C6?style=flat-square&logo=tensorflow&logoColor=white"/> <!--tensorflow-->
-  <img src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <!--keras-->
+  <img src="https://img.shields.io/badge/Tensorflow-3178C6?style=flat-square&logo=tensorflow&logoColor=white"/> <!--tensorflow-->
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <!--keras-->
   <br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> <!--Windows-->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"> <!--Linux-->
-  <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> <!--anaconda-->
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> <!--anaconda-->
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-squaree&logo=Visual Studio Code&logoColor=white"> <!--vscode-->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"> <!--Jupyter-->
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"> <!--Google Colab-->
   <br>
   <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"> <!--Google Drive-->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <!--Notion-->
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <!--github-->
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <!--github-->
   
   <br>
   
