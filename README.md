@@ -29,7 +29,7 @@
   <br>
   <img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"> <!--Google Drive-->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <!--Notion-->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> <!--Git-->
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <!--github-->
   
   <br>
   
