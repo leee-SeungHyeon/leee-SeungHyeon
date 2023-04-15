@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"> <!--scikit-learn-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <!--selenium-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"> <!--PyTorch-->
-  <img src="https://img.shields.io/badge/Tensorflow-3178C6?style=flat-square&logo=tensorflow&logoColor=white"/> <!--tensorflow-->
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <!--tensorflow-->
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/> <!--keras-->
   <br>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> <!--Windows-->
