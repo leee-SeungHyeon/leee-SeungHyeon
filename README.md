@@ -38,20 +38,14 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunwow1263)](https://solved.ac/hyunwow1263/)
 
-  </div>
+  <br>
   
-<!--  ## 📱 SNS & Blog 📱
-  <a href="https://www.instagram.com/js.xee/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FAFAFA&link=https://www.instagram.com/js.xee/"/>
+  ## 📱 Blog 📱
+  <a href="https://past-smoke-5dd.notion.site/612f830ee7db4c4a9e94a3aa6f4b5798">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   </a>
-  <a href="https://velog.io/@junnn0021">
-    <img 
-        src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=000000&link=https://velog.io/@junnn0021"/>
-  </a>
--->
 
-  
+  </div>
   
   
   
