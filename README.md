@@ -41,7 +41,7 @@
   <br>
   
   ## 📱 Blog 📱
-  <a href="https://past-smoke-5dd.notion.site/612f830ee7db4c4a9e94a3aa6f4b5798">
+  <a href="[https://past-smoke-5dd.notion.site/612f830ee7db4c4a9e94a3aa6f4b5798](https://past-smoke-5dd.notion.site/612f830ee7db4c4a9e94a3aa6f4b5798?pvs=4)">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   </a>
 
